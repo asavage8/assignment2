@@ -1,4 +1,4 @@
-
+// For index.html for cutest cat site
       var catNode = document.getElementById("catName");
       var catColorNode = document.getElementById("catColor");
       var catSizeNode = document.getElementById("catSize");
